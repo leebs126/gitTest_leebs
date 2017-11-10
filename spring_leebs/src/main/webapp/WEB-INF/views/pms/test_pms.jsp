@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>작업화면 김태호</title>
+<title>작업 화면 pms</title>
 </head>
 <body>
-	<h1>작업화면 KTH2</h1>
+	<h1>작업 화면 pms</h1>
 </body>
 </html>
