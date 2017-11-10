@@ -7,6 +7,6 @@
 <title>작업화면 김태호</title>
 </head>
 <body>
-	<h1>작업화면 kth</h1>
+	<h1>작업화면 KTH</h1>
 </body>
 </html>
