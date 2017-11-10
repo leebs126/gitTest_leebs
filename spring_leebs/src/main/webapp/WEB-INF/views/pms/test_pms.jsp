@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>작업 화면 pms</h1>
-	<h1>작업 화면 pms</h1>
+	<h1>작업 화면 pms </h1>
 </body>
 </html>
