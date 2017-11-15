@@ -43,7 +43,7 @@ public class CartControllerImpl extends BaseController implements CartController
 		return mav;
 	}
 	
-	@RequestMapping(value="/myCartMainCookie.do" ,method = RequestMethod.POST)
+	@RequestMapping(value="/myCartMainCookie.do" ,method ={ RequestMethod.GET})
 	public ModelAndView myCartMainCookie(HttpServletRequest request, HttpServletResponse response)  throws Exception {
 		//String fileName=getFileName(request);
 		System.out.println("myCartMainCookie 메소드 호출");
